@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "react-native-curso-metacritic-app",
+    "slug": "metaquery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.menikmatimx.metaquery"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c0d8923b-04f0-49ba-9657-ad5871c8e549"
+      }
+    },
+    "owner": "menikmatimx"
+  }
+}
